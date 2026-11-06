@@ -25,7 +25,7 @@ https://www.blender.org/download/
 4. Follow the installation wizard and accept the default settings.
 5. Once installation is complete, launch Blender.
 
-🎥 **YouTube Tutorial:** [Blender Installation Guide for Windows](https://www.youtube.com/results?search_query=Blender+installation+Windows+step+by+step)
+🎥 **YouTube Tutorial:** [Blender Installation Guide for Windows](hhttps://youtu.be/gKAcnpNYIA0?si=HrBKEKl-NlbG4z4c)
 
 ## 3. macOS Installation
 
@@ -45,7 +45,7 @@ https://www.blender.org/download/
 
 *Note: If macOS displays a security prompt when opening Blender for the first time, follow the system instructions to allow the application to open.*
 
-🎥 **YouTube Tutorial:** [Blender Installation Guide for macOS](https://www.youtube.com/results?search_query=Blender+installation+Mac+Apple+Silicon)
+🎥 **YouTube Tutorial:** [Blender Installation Guide for macOS](https://youtu.be/xdSjK4r5TWg?si=sTXuqggVb_M3GP0m)
 
 ## 4. Verify Your Installation
 
