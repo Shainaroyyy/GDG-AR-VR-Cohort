@@ -9,8 +9,7 @@ Make sure you join the following platforms to stay updated throughout the mentor
 | Google Classroom    | [Join Classroom](https://classroom.google.com/c/ODkwNzM4NzQwNTcz?cjc=vbvhqpwz)                              | Assignments and submissions                      |
 | GitHub Repository   | [View Repository](https://github.com/Shainaroyyy/GDG-AR-VR-Cohort) | Session notes and learning resources             |
 | GDG AR/VR Community | [Join Community](https://x.com/i/communities/1984913163574468823)  | Share your work and connect with fellow learners |
-| LinkedIn            | [Connect](https://www.linkedin.com/in/shainaroyyy/)                 | Connect with me                      |
-| X (Twitter)         | [Follow](https://x.com/ShainaRoyyy)                                 | Connect and share your progress                  |
+
 
 
 Feel free to connect and share what you've learnt in class!
